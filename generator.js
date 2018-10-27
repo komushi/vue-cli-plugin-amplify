@@ -7,12 +7,12 @@ module.exports = (api, options, rootOptions) => {
         'aws-appsync': 'latest',
         'graphql': 'latest',
         'vue-apollo': 'latest',
-        'vue-router': 'latest',
+        'vue-router': 'latest'
       },
       devDependencies: {
         'graphql-tag': '^2.9.0',
-        'eslint-plugin-graphql': '^2.1.0',
-      },
+        'eslint-plugin-graphql': '^2.1.0'
+      }
     }
   })
 
